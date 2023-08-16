@@ -21,7 +21,7 @@
   * C 타입 안드로이드 폰
 
 2. 조작법
-<p align="center"><img src="image/howto.png" height="700x"></img></p>
+<p align="center"><img src="howto.png" height="700x"></img></p>
 
 ## Configuration
 <p align="center"><img src="configuration.png"></img></p>
