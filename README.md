@@ -21,13 +21,13 @@
   * C 타입 안드로이드 폰
 
 2. 조작법
-<p align="center"><img src="howto.png"></img></p>
+<p align="center"><img src="howto.png" height="300x"></img></p>
 
 ## Configuration
-<p align="center"><img src="configuration.png"></img></p>
+<p align="center"><img src="configuration.png" height="500x"></img></p>
 
 ## Flow chart
-<p align="center"><img src="FlowChart.png"></img></p>
+<p align="center"><img src="FlowChart.png" height="1000x"></img></p>
 
 ## Demo App
 https://drive.google.com/file/d/1q3ftCEb5k4WWoOx4qWqepxsfadT7EUec/view?usp=sharing
