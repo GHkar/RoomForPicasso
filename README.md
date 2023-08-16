@@ -16,7 +16,12 @@
 </div>
 
 ## How to Use
-<p align="center"><img src="image/howto.jpg" height="700x"></img></p>
+1. 필요 장비
+  * 삼성 전자 기어 VR (SM-R3250)
+  * C 타입 안드로이드 폰
+
+2. 조작법
+<p align="center"><img src="image/howto.png" height="700x"></img></p>
 
 ## Configuration
 <p align="center"><img src="configuration.png"></img></p>
@@ -24,8 +29,5 @@
 ## Flow chart
 <p align="center"><img src="FlowChart.png" height="700x"></img></p>
 
-## Program Configuration
-<p align="center"><img src="program_config.png"></img></p>
-
-
+## Demo App
 https://drive.google.com/file/d/1q3ftCEb5k4WWoOx4qWqepxsfadT7EUec/view?usp=sharing
